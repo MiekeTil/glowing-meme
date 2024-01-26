@@ -1,0 +1,38 @@
+h1 {
+  font-family: "Roboto", sans-serif;
+}
+
+input {
+  width: 30%;
+}
+
+.list-container {
+  text-align: center;
+  margin: 50px;
+}
+
+#new-item {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+#add-btn {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+#item-list {
+  list-style: none;
+  padding: 0px;
+  font-family: "Reenie Beanie", cursive;
+  font-size: 28px;
+}
+
+.item {
+  margin: 5px 0px;
+  cursor: pointer;
+}
+
+.completed {
+  text-decoration: line-through;
+}
